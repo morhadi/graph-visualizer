@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <nav className="navbar navbar-dark bg-dark">
       <a className="navbar-brand" href="/">Graph Visualizer</a>
-      <a className="github-button" href="https://github.com/morhadi/graph-visualizer" data-icon="octicon-star" data-size="large" aria-label="Star awasthishubh/graph-visualizer on GitHub">Star on GitHub</a>
+      <a className="github-button" href="https://github.com/morhadi/graph-visualizer" data-icon="octicon-star" data-size="large" aria-label="Star morhadi/graph-visualizer on GitHub">Star on GitHub</a>
     </nav>
 
     <div style={{ height: "calc(100vh - 56px)" }}>
